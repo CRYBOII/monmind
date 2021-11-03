@@ -5,6 +5,8 @@ Obfuscation strings in golang code
 	<img src="monmind.png" alt="kill"/>
 </p>
 
+
+
 ## INSTALL
 
 You can install monmind by running:
@@ -115,10 +117,14 @@ or with different package
 
 `fmt.Println(bar.YLMEECE42())`
 
-#### Will print 
+#### this will print 
 ```
 this is super secret
 ```
+<p align="center">
+	<img src="capture-20211103-160212.png" alt="kill"/>
+</p>
+
 
 
 ## Acknowledgments
