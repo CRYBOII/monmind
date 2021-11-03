@@ -107,7 +107,7 @@ now you could use a encoded functions string like this
 
 `fmt.Println(YLMEECE42())`
 
-or with different pakage 
+or with different package 
 
 
 `fmt.Println(bar.YLMEECE42())`
