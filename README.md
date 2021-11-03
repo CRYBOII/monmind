@@ -2,7 +2,7 @@
 Obfascation strings in golang code
 
 <p align="center">
-	<img src="monmind.png" alt="strobfus"/>
+	<img src="monmind.png" alt="kill"/>
 </p>
 
 ## INSTALL
