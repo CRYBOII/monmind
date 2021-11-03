@@ -40,7 +40,7 @@ in .ob file
 this is secret
 this is super secret
 ```
-when we run monmind obfuscated file is generated
+when we run `monmind` obfuscated file is generated
 ```
 package main
 
