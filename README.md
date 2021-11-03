@@ -115,6 +115,11 @@ or with different package
 
 `fmt.Println(bar.YLMEECE42())`
 
+#### result 
+```
+this is super secret
+```
+
 
 ## Acknowledgments
 
