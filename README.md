@@ -120,9 +120,11 @@ or with different package
 this is super secret
 ```
 #### without obfuscated
+
 <p align="center">
 	<img src="capture-20211103-160212.png" alt="kill"/>
 </p>
+
 #### with obfuscated
 
 <p align="center">
