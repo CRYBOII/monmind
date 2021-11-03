@@ -7,7 +7,7 @@ Obfascation strings in golang code
 You can install monmind by running:
 
 ```
-go install  github.com/CRYBOII/monmind
+go get  github.com/CRYBOII/monmind
 ```
  
 
