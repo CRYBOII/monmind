@@ -1,5 +1,5 @@
 ## Monmind - obfuscate multiple strings & hide text from binary searching 
-Obfascation strings in golang code
+Obfuscation strings in golang code
 
 <p align="center">
 	<img src="monmind.png" alt="kill"/>
