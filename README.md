@@ -20,7 +20,7 @@ go get  github.com/CRYBOII/monmind
 ## USAGE
 
 Once [monmind](https://github.com/CRYBOII/monmind) is installed 
-go to workspacd folder and create .ob file, 
+go to workspace folder and create .ob file, 
 
 and slap your strings in there on different lines.
 
