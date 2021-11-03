@@ -22,8 +22,6 @@ go get  github.com/CRYBOII/monmind
 Once [monmind](https://github.com/CRYBOII/monmind) is installed 
 go to workspacd folder and create .ob file, 
 
-put  all strings that you want to obfuscate,
-
 and slap your strings in there on different lines.
 
 now you can run this command 
