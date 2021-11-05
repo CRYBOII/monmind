@@ -106,7 +106,7 @@ func YLMEECE42() string {
 
 ```
 
-now you could use a encoded functions string like this
+now you can use a obfuscated string functions  like this
 
 `fmt.Println(YLMEECE42())`
 
