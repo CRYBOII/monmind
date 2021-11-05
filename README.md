@@ -30,7 +30,7 @@ now you can run this command
 monmind
 ```
 
-this should be generate the file `obfascated.go`
+this should be generate the file `obfuscated.go`
 all encoded strings will be contians in that file
  
 ### Example 
